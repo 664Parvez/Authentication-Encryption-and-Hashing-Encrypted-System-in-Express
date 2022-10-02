@@ -1,0 +1,2 @@
+user = parvez123
+pass = rabbi123
